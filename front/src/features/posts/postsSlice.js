@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit"
 
 const initialState = [
-    {id:1,title:"첫번째 블로그 제목", content:"첫번째 블로그 내용입니다.",userId:''},
+    {id:1,title:"첫번째 블로그 제목", content:"첫번째 블로그 내용입니다."},
     {id:2,title:"두번째 블로그 제목", content:"두번째 블로그 내용입니다."}
 ]
 
